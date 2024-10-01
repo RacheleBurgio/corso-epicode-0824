@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&family=Prata&display=swap');
+
+body {
+    margin: 0;
+}
+
+.main-section {
+    padding: 20px;
+}
